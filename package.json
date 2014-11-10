@@ -1,0 +1,24 @@
+{
+  "name": "karma-vtex-curl-amd",
+  "version": "0.2.5",
+  "description": "A Karma plugin. Adapter for VTEX Curl framework.",
+  "main": "index.js",  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brenoc/karma-vtex-curl-amd.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "vtex-curl-amd"
+  ],
+  "author": "Breno Calazans <brenocalazans@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "vtex-curl-amd": "^0.8.10"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT"
+}
