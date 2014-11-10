@@ -1,7 +1,7 @@
 {
   "name": "karma-vtex-curl-amd",
   "version": "0.2.6",
-  "description": "A Karma plugin. Adapter for VTEX Curl framework.",
+  "description": "A Karma plugin. Adapter for VTEX Curl.",
   "main": "index.js",
   "repository": {
     "type": "git",
